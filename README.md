@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Java`**
 
-Me chamo Marcello Lima, tenho 31 anos e sou natural do Rio de Janeiro. Concluí minha graduação em Sistemas da Informação em 2019. Gosto muito de trabalhar com tecnologia e procuro sempre estar evoluindo cada vez mais".
+Oi, sou Marcello Lima!
+
+Tenho 31 anos e sou natural do Rio de Janeiro. Graduado em Sistemas da Informação (2019), sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de evolução. Ao longo da minha carreira, venho me especializando em desenvolvimento de software com foco em Java, Spring Boot, microsserviços, e AWS.
+
+Atualmente, busco expandir minhas habilidades e contribuir para projetos que gerem valor real. Estou em constante aprendizado e acredito que a prática contínua é a chave para o crescimento na área de TI.
+
+Se você está em busca de alguém dedicado e comprometido com a evolução constante, vamos conversar!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/marcellolimadev/" target="_blank">
