@@ -50,14 +50,14 @@ Se você está em busca de alguém dedicado e comprometido com a evolução cons
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" 
     />
-       <img 
-        align="left" 
-        alt="Hibernate" 
-        title="Hibernate"
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" 
-    />
+      <img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://angular.io/assets/images/logos/angular/angular.svg"
+/>
       <img 
         align="left" 
         alt="PostgreSQL" 
@@ -124,12 +124,13 @@ Se você está em busca de alguém dedicado e comprometido com a evolução cons
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 
 <br/>
 <br/>
