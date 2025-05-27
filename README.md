@@ -4,7 +4,7 @@
 
 Oi, sou Marcello Lima!
 
-Tenho 31 anos e sou natural do Rio de Janeiro. Graduado em Sistemas da Informação (2019), sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de evolução. Ao longo da minha carreira, venho me especializando em desenvolvimento de software com foco em Java, Spring Boot, microsserviços, e AWS.
+Tenho 32 anos e sou natural do Rio de Janeiro. Graduado em Sistemas da Informação (2019), sou apaixonado por tecnologia e estou sempre em busca de novos desafios e oportunidades de evolução. Ao longo da minha carreira, venho me especializando em desenvolvimento de software com foco em Java, Spring Boot, microsserviços, e AWS.
 
 Atualmente, busco expandir minhas habilidades e contribuir para projetos que gerem valor real. Estou em constante aprendizado e acredito que a prática contínua é a chave para o crescimento na área de TI.
 
